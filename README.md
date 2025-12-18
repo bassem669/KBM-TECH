@@ -13,29 +13,28 @@ Le projet a été développé par deux étudiants en utilisant Flutter pour le f
 
 🗄️ Base de données MySQL avec création automatique des tables au démarrage du backend via Sequelize
 
-🛠️ Technologies utilisées
+🛠️ Technologies utilisées 
     Frontend
         - Flutter
-
     Backend
         - Node.js
         - Express.js
         - Sequelize (ORM)
-
     Base de données
         - MySQL
         - Nom de la base : VenteElectronique
-
     Services
         - Firebase Cloud Messaging (FCM)
         - API Gemini
 
 ▶️ Commandes de démarrage
-    📱 Frontend (Flutter)
+ 📱 Frontend (Flutter)
+    
     cd vente_electronics
     flutter run
 
-🌐 Backend (Node.js + Express + Sequelize)
+ 🌐 Backend (Node.js + Express + Sequelize)
+    
     cd "Projet flutter"
     npm install
     node src/server.js
@@ -49,11 +48,8 @@ Le projet a été développé par deux étudiants en utilisant Flutter pour le f
 Assurez-vous que :
 
 MySQL est en cours d’exécution
-
     Les paramètres de connexion (host, user, password, database) sont correctement configurés
-
     La base de données VenteElectronique existe avant le démarrage du serveur
-
     (Optionnel : configuration via un fichier .env)
 
 👨‍💻 Auteurs
