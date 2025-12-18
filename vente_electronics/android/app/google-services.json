@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394991590488",
+    "project_id": "kbm-store-76c30",
+    "storage_bucket": "kbm-store-76c30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394991590488:android:7995401dc9a23cf2817e2d",
+        "android_client_info": {
+          "package_name": "com.example.vente_electronics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMf_vVy840hgFCHFNhvsqdi_vVr7zzfVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
